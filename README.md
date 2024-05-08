@@ -2,13 +2,13 @@
 
 | | |
 |-|-|
-|`Author` | Your full name
+|`Author` | Barbulescu Alenxadru 
 
-## Description
+## Description Ping pong game displayed on a OLED
 
-## Motivation
+## Motivation   
 
-## Architecture
+## Architecture  
 
 ### Block diagram
 
