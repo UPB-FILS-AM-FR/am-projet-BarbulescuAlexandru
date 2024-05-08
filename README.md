@@ -26,7 +26,7 @@
 
 | Device | Usage | Price |
 |--------|--------|-------|
-|Uno R3 ATmega328P| Uno R3 ATmega328P| [45](https://www.emag.ro/placa-dezvoltare-uno-r3-atmega328p-cl201/pd/DPF3WJBBM/?cmpid=87002&utm_source=google&utm_medium=cpc&utm_campaign=(RO:Whoop!)_3P-Y)
+|Uno R3 ATmega328P| Uno R3 ATmega328P| [45 RON](https://www.emag.ro/placa-dezvoltare-uno-r3-atmega328p-cl201/pd/DPF3WJBBM/?cmpid=87002&utm_source=google&utm_medium=cpc&utm_campaign=(RO:Whoop!)_3P-Y)
 | Activ Buzzer | Buzzer | [2 RON](https://www.emag.ro/buzzer-activ-5v-compatibil-arduino-raspberry-oky0151/pd/D7KJNNMBM/) |
 | Oled| Display| [20 RON](https://www.emag.ro/afisaj-grafic-oled-128-x-64-px-spi-0-96-inch-multicolor-oled-096-spi-white/pd/DPZ798MBM/?cmpid=93116&utm_source=google&utm_medium=cpc&utm_campaign=(RO:eMAG!)_3P_NO_SALES_>_Jucarii_hobby&utm_content=111476631565&gad_source=1&gclid=CjwKCAjw3NyxBhBmEiwAyofDYdepSTpZeJRHLUfylAz0D0FFH1Qy-MPPTZx9lRWG9SpZlBKYltj9VxoCex4QAvD_BwE) |
 | Breadboard | Project board | [13 RON](https://www.emag.ro/placa-test-breadboard-830-bb830/pd/D6SCSBMBM/?cmpid=87002&utm_source=google&utm_medium=cpc&utm_campaign=(RO:Whoop!)_3P-Y_>_Jucarii_hobby&utm_content=79559830074&gad_source=1&gclid=CjwKCAjw3NyxBhBmEiwAyofDYTk4lSftqBm5HNeuwBGRkPJC57FY5b366KsxQx3y0N8XTKtlN85YIhoCavAQAvD_BwE) 
