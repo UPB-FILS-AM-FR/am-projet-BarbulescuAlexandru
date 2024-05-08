@@ -17,8 +17,9 @@
 
 ### Schematic
 
-![Schematic](![e01261d0-9b86-4e7e-a520-55756d98b271](https://github.com/UPB-FILS-AM-FR/am-projet-BarbulescuAlexandru/assets/161452707/db95a813-7fe1-4a91-837e-14ad8ec184f9)
+![Schematic](![e01261d0-9b86-4e7e-a520-55756d98b271](https://github.com/UPB-FILS-AM-FR/am-projet-BarbulescuAlexandru/assets/161452707/7a256ecc-c1d0-474e-8b3a-f987e43f8e90)
 )
+
 
 ### Components
 
