@@ -17,7 +17,8 @@
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![Schematic](![e01261d0-9b86-4e7e-a520-55756d98b271](https://github.com/UPB-FILS-AM-FR/am-projet-BarbulescuAlexandru/assets/161452707/db95a813-7fe1-4a91-837e-14ad8ec184f9)
+)
 
 ### Components
 
