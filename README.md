@@ -1,14 +1,14 @@
-# Your Project Name
+# Ping Pong Game
 
 | | |
 |-|-|
-|`Author` | Your full name
+|`Author` | Barbulescu Alexandru
 
-## Description
+## Description This project implements a ping pong game displayed on an OLED screen using Arduino UNO. Players control the paddles using analog joysticks, and a buzzer provides audio feedback during gameplay.
 
-## Motivation
+## Motivation The motivation behind this project was to create an interactive and entertaining game using Arduino and OLED display technology.
 
-## Architecture
+## Architecture  Microcontroler Arduino Uno - Display - Input Devices - Buzzer  UI
 
 ### Block diagram
 
@@ -17,7 +17,7 @@
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![e01261d0-9b86-4e7e-a520-55756d98b271](https://github.com/UPB-FILS-AM-FR/am-projet-BarbulescuAlexandru/assets/161452707/becb0c96-5a0b-4ccb-8a8f-eb9d909bec17)
 
 ### Components
 
@@ -26,10 +26,10 @@
 
 | Device | Usage | Price |
 |--------|--------|-------|
-| Activ Buzzer | Buzzer | [1.5 RON](https://www.optimusdigital.ro/ro/audio-buzzere/635-buzzer-activ-de-3-v.html?search_query=buzzer&results=61) |
-| Push Button | Button | [1 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=222) |
-| Jumper Wires | Connecting components | [7 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=set+fire&results=110) |
-| Breadboard | Project board | [10 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=breadboard&results=145) |
+|Uno R3 ATmega328P| Uno R3 ATmega328P| [45 RON](https://www.emag.ro/placa-dezvoltare-uno-r3-atmega328p-cl201/pd/DPF3WJBBM/?cmpid=87002&utm_source=google&utm_medium=cpc&utm_campaign=(RO:Whoop!)_3P-Y)
+| Activ Buzzer | Buzzer | [2 RON](https://www.emag.ro/buzzer-activ-5v-compatibil-arduino-raspberry-oky0151/pd/D7KJNNMBM/) |
+| Oled| Display| [20 RON](https://www.emag.ro/afisaj-grafic-oled-128-x-64-px-spi-0-96-inch-multicolor-oled-096-spi-white/pd/DPZ798MBM/?cmpid=93116&utm_source=google&utm_medium=cpc&utm_campaign=(RO:eMAG!)_3P_NO_SALES_>_Jucarii_hobby&utm_content=111476631565&gad_source=1&gclid=CjwKCAjw3NyxBhBmEiwAyofDYdepSTpZeJRHLUfylAz0D0FFH1Qy-MPPTZx9lRWG9SpZlBKYltj9VxoCex4QAvD_BwE) |
+| Breadboard | Project board | [13 RON](https://www.emag.ro/placa-test-breadboard-830-bb830/pd/D6SCSBMBM/?cmpid=87002&utm_source=google&utm_medium=cpc&utm_campaign=(RO:Whoop!)_3P-Y_>_Jucarii_hobby&utm_content=79559830074&gad_source=1&gclid=CjwKCAjw3NyxBhBmEiwAyofDYTk4lSftqBm5HNeuwBGRkPJC57FY5b366KsxQx3y0N8XTKtlN85YIhoCavAQAvD_BwE) 
 
 ### Libraries
 
