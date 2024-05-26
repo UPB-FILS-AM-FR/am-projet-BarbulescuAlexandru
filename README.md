@@ -37,8 +37,10 @@
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-| [lib-name1](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
-| [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
+| Adafruit_SSD1306.h | For display.  |
+| <Adafruit_GFX.h> | This is the core graphics library for all our displays, providing a common set of graphics primitives (points, lines, circles, etc.).  |
+| <Wire.h>|  This is an I2C communications library that facilitates two-wire class communications with I2C/TWI devices |
+|  <SPI.h> | The Serial Peripheral Interface (SPI) driver is a generic, full-duplex driver that transmits and receives data on a SPI bus. | 
 
 ## Log
 
